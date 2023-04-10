@@ -13,4 +13,4 @@ e ownar máquinas **Boot2Root**. Também sou desenvolvedor nas horas vagas.
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-![m3m0o's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3m0o&count_private=true&show_icons=true&theme=algolia)
+![m3m0o's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3m0o&count_private=true&show_icons=true&theme=transparent)
