@@ -14,3 +14,6 @@ e ownar máquinas **Boot2Root**. Também sou desenvolvedor nas horas vagas.
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ![m3m0o's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3m0o&count_private=true&show_icons=true&theme=transparent)
+
+## Certificações e Badges
+<a href="https://www.credly.com/badges/e8763228-d834-4ea5-a29a-9ecf8b0a5c16/public_url"><img src="https://raw.githubusercontent.com/m3m0o/m3m0o/main/aws-certified-cloud-practitioner.png" width=100px height=100px><a/>
