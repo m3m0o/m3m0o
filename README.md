@@ -1,8 +1,7 @@
 ## Sobre mim
 
 ### Olá, o meu nome é Guilherme!
-Sou estudante e entusiasta de **Segurança da Informação**, atualmente fazendo graduação na área. Uma das minhas atividades preferidas é participar de **CTFs**
-e ownar máquinas **Boot2Root**. Também sou desenvolvedor nas horas vagas.
+Sou estudante do mundo da **tecnologia** e **desenvolvimento** tendo também grande entusiasmo pela área de **segurança da informação**, atualmente graduando na área. Meu interesse no momento é atuar como desenvolvedor para contribuir com minhas habilidades e conhecer novas tecnologias e metodologias que agregam na criação de aplicações modernas, adquirindo experiência com projetos reais
 
 ## Redes Sociais
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gviolin/)
