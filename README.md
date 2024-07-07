@@ -16,5 +16,5 @@ Sou estudante do mundo da **tecnologia** e **segurança da informação**, atual
 
 ## Certificações e Badges
 <a href="https://www.credly.com/badges/e8763228-d834-4ea5-a29a-9ecf8b0a5c16/public_url"><img src="https://raw.githubusercontent.com/m3m0o/m3m0o/main/aws-certified-cloud-practitioner.png" width=100px height=100px><a/>
-<a href="https://solyd.com.br/ead/pentest/verificar/ch1f2p4S9b/"><img src="https://cdn.ead.guru/74/media/public/pentest_zero_ao_profissional_m6VrrEb.png" width=100px height=100px></a>
-<a href="https://solyd.com.br/ead/pentest/verificar/irR3l68mBk/"><img src="https://cdn.ead.guru/74/media/public/wifi_pentest.png" width=100px height=100px></a>
+<a href="https://solyd.com.br/ead/pentest/verificar/ch1f2p4S9b/"><img src="https://cdn.ead.guru/74/media/public/website/custom_file_shield-sywp.svg" width=100px height=100px></a>
+<a href="https://solyd.com.br/ead/pentest/verificar/irR3l68mBk/"><img src="https://cdn.ead.guru/74/media/public/website/custom_file_shield-sycp.svg" width=100px height=100px></a>
