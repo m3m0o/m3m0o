@@ -1,13 +1,13 @@
 ## Sobre mim
 
 ### Olá, o meu nome é Guilherme!
-Sou estudante do mundo da **tecnologia** e **desenvolvimento** tendo também grande entusiasmo pela área de **segurança da informação**, atualmente graduando na área. Meu interesse no momento é atuar como desenvolvedor para contribuir com minhas habilidades e conhecer novas tecnologias e metodologias que agregam na criação de aplicações modernas, adquirindo experiência com projetos reais
+Sou estudante do mundo da **tecnologia** e **segurança da informação**, atualmente graduando na área. Meu interesse no momento é atuar em times voltados a entregar valor com operações de segurança cibernética, principalmente através de simulações de adversário e testes de intrusão.
 
 ## Redes Sociais
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gviolin/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://wrf90s.medium.com)
 
-## Principais linguagens utilizadas por mim
+## Principais linguagens utilizadas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
